@@ -1,0 +1,23 @@
+#wrapper{
+    height: 100vh;
+    background-color: #CCC;
+    display: flex;
+    align-items: center;  
+    justify-content: center;
+  }
+  
+  div.rslt{
+  
+      background-color: rgb(133, 131, 131);
+     text-align: center;
+     padding: 20px;
+     margin-bottom: 10px;
+     font-size: 20px;
+     font-weight:bold;
+  }
+      
+  div.btn-group{
+      padding: 10px;
+      border: 0;
+      cursor: pointer;
+  }
